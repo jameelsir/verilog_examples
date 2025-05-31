@@ -1,0 +1,20 @@
+
+10. Printing statistics.
+
+=== mux ===
+
+   Number of wires:                  4
+   Number of wire bits:              4
+   Number of public wires:           4
+   Number of public wire bits:       4
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  1
+     sg13g2_mux2_1                   1
+
+   Chip area for module '\mux': 18.144000
+     of which used for sequential elements: 0.000000 (0.00%)
+
